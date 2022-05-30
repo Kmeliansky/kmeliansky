@@ -1,4 +1,4 @@
-## Olá, me chamo Bananinha ! 
+## Olá, me chamo Bananinha V1adinho ! 
 ### Bem vindo ao meu perfil GitHub 👋
 
 - Estou cursando técnico em desenvolvimento de sistemas no SENAI Botucatu.
