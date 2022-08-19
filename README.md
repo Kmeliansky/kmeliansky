@@ -1,7 +1,8 @@
 ## Olá, me chamo Mateus! 
 ### Bem vindo ao meu perfil GitHub 👋
 
-- Estou cursando técnico em desenvolvimento de sistemas no SENAI Botucatu.
+- Cursando técnico em desenvolvimento de sistemas no SENAI Botucatu. (2/3)
+- Também estou fazendo o ensino superior em ADS na FATEC Botucatu (1/6).
 - Estudo programação na área de front-End.
 - Gosto de aprender sobre interfaces e tecnologias relacionadas.
 - Ferramentas e tecnologias que eu utilizo:
