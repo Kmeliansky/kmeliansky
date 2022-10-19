@@ -5,7 +5,8 @@
 - Também estou fazendo o ensino superior em ADS na FATEC Botucatu (1/6).
 - Meus conhecimento em nuvem são em: Google cloud fundamentos & Microsoft AI-900
 - Estudo programação na área de front-End.
-- Gosto de aprender sobre interfaces e tecnologias relacionadas.    
+- Gosto de aprender sobre interfaces e tecnologias relacionadas. 
+- Estou em colaboração com a SEBRAETEC para realizações de consultorias envolvendo o planejamento para buscas orgânicas (SEO)
          
 ## Estou Aprendendo:
 
