@@ -2,10 +2,9 @@
 ### Bem vindo ao meu perfil GitHub 👋
 
 - Cursando técnico em desenvolvimento de sistemas no SENAI Botucatu. (3/3)
-- Também estou fazendo o ensino superior em ADS na FATEC Botucatu (2/6).
-- Estudo programação na área de front-End.
+- Também estou fazendo o ensino superior em Análise e desenvolvimento de sistemas na FATEC Botucatu (2/6).
 - Gosto de aprender sobre interfaces e tecnologias relacionadas. 
-- Estou em colaboração com a SEBRAETEC para realizações de consultorias envolvendo o planejamento para buscas orgânicas (SEO)
+- Participei em colaboração entre o SENAI e a SEBRAETEC para realizações de consultorias envolvendo o planejamento para buscas orgânicas (SEO)
          
 ## Estou Aprendendo:
 <div  align="center">
