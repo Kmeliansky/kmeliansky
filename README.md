@@ -1,5 +1,4 @@
-## Olá, me chamo Mateus! 
-### Bem vindo ao meu perfil GitHub 👋
+## Bem-Vindo ao meu perfil no GitHub
 
 - Técnico formado em Desenvolvimento de Sistemas pelo Serviço Nacional de aprendizagem industrial de Botucatu - SENAI Botucatu
 - Também estou fazendo o ensino superior em Análise e desenvolvimento de sistemas na FATEC Botucatu (3/6).
