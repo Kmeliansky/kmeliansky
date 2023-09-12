@@ -1,8 +1,8 @@
 ## Olá, me chamo Mateus! 
 ### Bem vindo ao meu perfil GitHub 👋
 
-- Cursando técnico em Desenvolvimento de Sistemas no SENAI Botucatu. (3/3)
-- Também estou fazendo o ensino superior em Análise e desenvolvimento de sistemas na FATEC Botucatu (2/6).
+- Técnico formado em Desenvolvimento de Sistemas pelo Serviço Nacional de aprendizagem industrial de Botucatu - SENAI Botucatu
+- Também estou fazendo o ensino superior em Análise e desenvolvimento de sistemas na FATEC Botucatu (3/6).
 - Gosto de aprender sobre interfaces e tecnologias relacionadas. 
 - Participei em colaboração entre o SENAI e a SEBRAETEC para realizações de consultorias envolvendo o planejamento para buscas orgânicas (SEO)
 
