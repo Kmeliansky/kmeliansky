@@ -1,7 +1,7 @@
 ## Bem-Vindo ao meu perfil no GitHub
 
 - Técnico formado em Desenvolvimento de Sistemas pelo Serviço Nacional de aprendizagem industrial de Botucatu - SENAI Botucatu
-- Também estou fazendo o ensino superior em Análise e desenvolvimento de sistemas na FATEC Botucatu (3/6).
+- Também estou fazendo o ensino superior em Análise e desenvolvimento de sistemas na FATEC Botucatu (5/6).
 - Gosto de aprender sobre interfaces e tecnologias relacionadas. 
 - Participei em colaboração entre o SENAI e a SEBRAETEC para realizações de consultorias envolvendo o planejamento para buscas orgânicas (SEO)
 
